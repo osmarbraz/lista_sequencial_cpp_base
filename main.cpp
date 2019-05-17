@@ -8,7 +8,7 @@
 #include <iostream>
 #include <string>
 
-using namespace std; 
+using namespace std;
 
 //Declaração dos métodos
 int leitura();
