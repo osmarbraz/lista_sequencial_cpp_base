@@ -1,5 +1,5 @@
-/Makefile
 /nbproject/
 /build/
-/dist/
 /.dep.inc
+/Makefile
+/dist/
