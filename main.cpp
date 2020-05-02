@@ -157,6 +157,11 @@ int main(int argc, char** argv) {
             }
             case 3:
             {
+               
+                break;
+            }
+            case 4:
+            {
                 //Preenche o valor do dado
                 int dado = leitura();
                 if (inserirFim(lista, dado, n) == true) {
@@ -164,11 +169,6 @@ int main(int argc, char** argv) {
                 } else {
                     cout << "\nNó não inserido no fim!" << endl;
                 }
-                break;
-            }
-            case 4:
-            {
-
                 break;
             }
             case 5:
