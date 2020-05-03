@@ -1,5 +1,11 @@
 # Implementação Lista Base utilizando estrutura sequencial(vetor) de forma estruturada em C++.
-Algumas operações implementadas:<br>
+
+## Características:<br>
+- Lista sequencial em vetor<br>
+- Utiliza subrotinas para modularizar as operações<br>
+- Os dados armazenados são do tipo inteiro<br>
+
+# Algumas operações implementadas:<br>
 - 1 - Listar Nós<br>
 - 4 - Inserir Nó no fim<br>
 - 12- Mostrar a quantidade de Nós<br>
